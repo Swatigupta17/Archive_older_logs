@@ -4,7 +4,7 @@
 Archive older files or larger files
 
 Steps:
-1) Provide path of DIrectory
+1) Provide path of Directory
 2) Check if directory is present or not
 3) Create archive folder if not present
 4) Find all files with size more than 20kb
